@@ -110,3 +110,7 @@ footer a:hover {
     text-decoration: none;
     color: white;
 }
+
+a.especial::after {
+    content: '\00A0\1F517';
+}
